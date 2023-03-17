@@ -323,32 +323,32 @@ main .container .left .profile {
 }
 
 .middle .stories .story:nth-child(1) {
-  background: url('./images/profilepic2.JPG')
+  background: url('./images.html/profilepic2.jpg')
   no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(2) {
-  background: url('./images/pizza.jpeg')
+  background: url('./images.html/pizza.jpeg')
   no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(3) {
-  background: url('./images/skyfullofstars.jpeg')
+  background: url('./images.html/skyfullofstars.jpeg')
   no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(4) {
-  background: url('./images/temple.jpeg')
+  background: url('./images.html/temple.jpeg')
   no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(5) {
-  background: url('./images/thehair.jpeg')
+  background: url('./images.html/thehair.jpeg')
   no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(6) {
-  background: url('./images/sanfran.jpeg')
+  background: url('./images.html/sanfran.jpeg')
   no-repeat center center/cover;
 }
 
